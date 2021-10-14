@@ -5,5 +5,5 @@ Goal: to demonstrate how mathematical thinking can be implemented into code that
  - Extensive comments provided in the .py file explaining all steps.
  - Examples/tests provided with the code, saved as comments. Remove the triple quotation marks to run tests.
 
-Not the Goal: to demonstrate efficienct algorithms, Python package functionality, class inheritance, polymorphism, encapsulation.
- - nested for-loop means the order of growth is n squared, but it is easier to teach this implementation to my students
+Not-the-Goal: to demonstrate efficienct algorithms, Python package functionality, class inheritance, polymorphism, encapsulation.
+ - nested for-loop means the order of growth is n squared. Code is for teaching purposes ONLY
