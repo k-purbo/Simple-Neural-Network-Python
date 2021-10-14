@@ -161,7 +161,7 @@ class TrainedNN:
 
 """
 # Train NN test
-# data - each array shows, price in hundred thoiusand, square footage in thousands
+# data - each array shows, price in hundred thousand, square footage in thousands
 data = np.array([[1, 0.8], [3, 1.6],   [0.8, 0.6],   
   [5, 1.8], [6, 1.7], [0.7, 0.7],])
 #t - true values, 0 for apartments, 1 for houses
